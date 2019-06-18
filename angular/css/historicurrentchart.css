@@ -1,0 +1,35 @@
+#historicurrentchart path.line {
+  fill: none;
+  stroke: #666;
+  stroke-width: 1.5px;
+}
+
+#historicurrentchart path.area {
+  fill: #e7e7e7;
+}
+
+#historicurrentchart .axis {
+  shape-rendering: crispEdges;
+}
+
+#historicurrentchart .x.axis line {
+  stroke: #000;
+}
+
+#historicurrentchart .y.axis line,
+#historicurrentchart .y.axis path,#historicurrentchart .x.axis path {
+  fill: none;
+  stroke: #000;
+}
+#historicurrentchart .inline-block{
+	display: inline-block;
+	padding: 5px
+}
+#historicurrentchart .forhistoridisplay{
+	width: 18px;
+	height: 18px;
+}
+#historicurrentchart .historicurrentchartheader{
+	padding: 5px 10px;
+	border: solid 3px lightgray
+}

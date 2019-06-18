@@ -1,0 +1,66 @@
+.idfordiscounteffortbycatchart .barsfordiscbyplayerrate .redtext{
+	fill:red;
+}
+.idfordiscounteffortbycatchart .barsfordiscbyplayerrate .blacktext{
+	fill:black;
+}
+.showdiscountbyplayer {
+	display: block;
+}
+.idfordiscounteffortbycatchart .info {
+	display: none;
+	background-image:url('../img/iconmessagediscount.png');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+#discounteffortbycatheader .inline-block{
+	display: inline-block;
+	padding: 5px
+}
+
+.idfordiscounteffortbycatchart   #yaxis line,
+.idfordiscounteffortbycatchart   #yaxis path,.idfordiscounteffortbycatchart   #xaxis path {
+  fill: none;
+}
+.idfordiscounteffortbycatchart #yaxis .tick{
+	display: none;
+}
+#discounteffortbycatheader .forhistoridisplay{
+	width: 18px;
+	height: 18px;
+}
+#discounteffortbycatheader .inline-block span.rect1 {
+	display: inline-block;
+	width: 16px;
+	height: 16px;
+	background-color: #99c0ed;
+}
+#discounteffortbycatheader .inline-block span.rect2 {
+	display: inline-block;
+	width: 16px;
+	height: 16px;
+	background-color: #bbbbb9;
+}
+#discounteffortbycatheader .inline-block span.rect3 {
+	display: inline-block;
+	width: 16px;
+	height: 16px;
+	background-color: #febf95;
+}
+#discounteffortbycatheader .inline-block span.rect4 {
+	display: inline-block;
+	width: 16px;
+	height: 16px;
+	background-color: #4da79c;
+}
+#discounteffortbycatheader .inline-block span.rect5 {
+	display: inline-block;
+	width: 16px;
+	height: 16px;
+	background-color: #152f6e;
+}
+#discounteffortbycatheader {
+	margin-bottom: 10px;
+	padding: 5px 10px;
+	border: solid 3px lightgray
+}

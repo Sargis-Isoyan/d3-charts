@@ -1,0 +1,68 @@
+[
+   {
+      "name": "DPAM",
+      "color": "#99c0de",
+      "showHideValue":false,
+      "currentvalue": {
+        "nb_sku": 100,
+        "Average_price": 100
+      },
+      "histovalue": {
+        "nb_sku": 105,
+        "Average_price": 95
+      }
+    },
+   {
+      "name": "LAHALLE",
+      "color": "#816088",
+      "showHideValue":true,
+      "currentvalue": {
+        "nb_sku": 110,
+        "Average_price": 90
+      },
+      "histovalue": {
+        "nb_sku": 113,
+        "Average_price": 94
+      }
+    },
+    {
+      "name": "ORCHESTRA",
+      "color": "#4da79c",
+      "showHideValue":true,
+      "currentvalue": {
+        "nb_sku": 150,
+        "Average_price": 80
+      },
+      "histovalue": {
+        "nb_sku": 140,
+        "Average_price": 85
+      }
+    },
+    {
+      "name": "OKAIDI",
+      "color": "#73d68f",
+      "showHideValue":true,
+      "currentvalue": {
+        "nb_sku": 120,
+        "Average_price": 90
+      },
+      "histovalue": {
+        "nb_sku": 122,
+        "Average_price": 92
+      }
+    },
+    {
+      "name": "KIABI",
+      "color": "#FB9455",
+      "showHideValue":true,
+      "currentvalue": {
+        "nb_sku": 95,
+        "Average_price": 82
+      },
+      "histovalue": {
+        "nb_sku": 140,
+        "Average_price": 70
+      }
+    }
+
+]

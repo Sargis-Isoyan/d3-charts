@@ -1,0 +1,79 @@
+#color-product .axis text {
+    font: 10px sans-serif;
+}
+#color-product .col-sm-12{
+    background-color: #fff;
+    margin-bottom: 20px;
+}
+#color-product .axis path,
+#color-product .axis line {
+    fill: none;
+    stroke: #000;
+    shape-rendering: crispEdges;
+}
+
+.DPAM {
+    fill: #99c0ed;
+    fill-opacity: .9;
+}
+.LAHALLE {
+    fill: #bbbbb9;
+    fill-opacity: .9;
+}
+.ORHESTRA {
+    fill: #febf95;
+    fill-opacity: .9;
+}
+.OKAIDI {
+    fill: #4da79c;
+    fill-opacity: .9;
+}
+.KIABI {
+    fill: #152f6e;
+    fill-opacity: .9;
+}
+
+#color-product .x.axis path {
+    display: none;
+}
+
+#color-product label {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+#color-product .colorbrandname {
+    display: inline-block;
+} 
+
+#color-product .bordLeft{
+    position: absolute;
+    width: 2px;
+    height: 75px;
+    border-left: solid 2px black;
+    top: 100px;
+    left: 40px;
+}
+#color-product .circl{
+    position: absolute;
+    width: 10px;
+    background: #000;
+    border-left: solid 2px black;
+    top: 175px;
+    left: 36px;
+    height: 10px;
+    border-radius: 50%;
+}
+#color-product .color-chart{
+    position: relative;
+}
+.closcolrdivstyle{
+    opacity: 0;    
+    -webkit-transition: opacity 2s; /* Safari */
+    transition: width 2s;
+}
+.opencolrdivstyle{
+    opacity: 1;    
+    -webkit-transition: opacity 2s; /* Safari */
+    transition: width 2s;
+}

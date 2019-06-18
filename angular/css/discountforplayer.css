@@ -1,0 +1,22 @@
+.idfordiscaountbyplayerchart  #yaxis line,
+.idfordiscaountbyplayerchart  #yaxis path,.idfordiscaountbyplayerchart  #xaxis path {
+  fill: none;
+}
+.idfordiscaountbyplayerchart .barsfordiscbyplayerrate .redtext{
+	fill:red;
+}
+.idfordiscaountbyplayerchart .barsfordiscbyplayerrate .blacktext{
+	fill:black;
+}
+.showdiscountbyplayer {
+	display: block;
+}
+.idfordiscaountbyplayerchart .info {
+	display: none;
+	background-image:url('../img/iconmessagediscount.png');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+
+

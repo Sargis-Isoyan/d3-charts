@@ -1,0 +1,19 @@
+#sizechart .area{
+     fill: #d1d2d3;
+}
+#sizechart .tick line{
+    fill: none;
+    stroke: #a8a8a8;
+    opacity: 0.2;
+}
+#sizechart .visualisation{
+    border: solid 2px #fff;
+    background-color: #fff;
+}
+#sizechart .container .size-chart{
+    padding: 0;
+    background-color:transparent !important;
+}
+.yaxis .tick text{
+	display: none;
+}

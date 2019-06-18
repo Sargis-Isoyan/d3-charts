@@ -1,0 +1,40 @@
+#pricpoint path.line {
+   fill: none;
+  stroke: #666;
+  stroke-width: 1.5px;
+}
+#pricpoint #DPAM1 circle{
+  fill : #70A4D4;
+}
+#pricpoint #LAHALLE1 circle{
+  fill : #BBBBB9;
+}
+#pricpoint #ORHESTRA1 circle{
+  fill : #FEBF95;
+}
+#pricpoint #OKAIDI1 circle{
+  fill : #4DA79C;
+}
+#pricpoint #KIABI1 circle{
+  fill : #F16446;
+}
+#pricpoint path.area {
+  fill: #e7e7e7;
+}
+
+#pricpoint .axis {
+  shape-rendering: crispEdges;
+}
+
+#pricpoint .x.axis line {
+  stroke: #000;
+}
+
+#pricpoint .y.axis line,
+#pricpoint .y.axis path,#pricpoint .x.axis path {
+  fill: none;
+  stroke: #000;
+}
+#pricpoint .pricestyle{
+  color: #FEBF95;
+}
